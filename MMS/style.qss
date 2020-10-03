@@ -1,0 +1,17 @@
+QPushButton{color:red;
+			width:65px;
+			height:30px;
+			background-color:blue;
+			font: bold italic 18px "Microsoft YaHei";
+			border:2px solid black}
+QPushButton:hover{background-color:white}
+QPushButton:pressed{background-color:yellow}
+QLabel{color:white;
+		border-radius: 20px;
+		background-color:#90a3af;
+		border:2px solid black}
+QListWidget{color:#3708af;
+			background-color:#c6b0b1;
+			}
+QVideoWidget{background-color:#c6b0b1;
+			}
